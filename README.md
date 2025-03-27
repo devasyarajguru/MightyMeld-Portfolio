@@ -1,5 +1,5 @@
 
-# 🚀 MightyMeld-Portfolio
+# 🚀 MightyMeld-Portfolio (Freelance Project)
 
 ⭐ MightyMeld is a revolutionary dev tool designed to accelerate your React development. With visual and intuitive superpowers, you can:
 
